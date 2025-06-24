@@ -1,1 +1,1 @@
-# Web3Lms
+# EthLms
